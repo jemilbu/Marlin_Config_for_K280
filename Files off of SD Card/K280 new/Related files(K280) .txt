@@ -1,0 +1,45 @@
+assembly video (cartoon):
+https://youtu.be/h9bnhPlEink
+[there are two corrections in this video: mention this please.]
+assembly by hand:
+https://www.youtube.com/watch?v=bn-26O3a2Eg&list=PLEX-B4bQrpXtmwvUj7PgNOQxhBPKd2eTx
+
+the bed assembly:
+https://drive.google.com/file/d/1CzwYJpfNb6602CWm7_0r-mbnMZrO6UIx/view?usp=sharing
+
+Extruder assmebly£º
+https://youtu.be/w9QgBQiGNCE
+
+cooling system assembly£º
+https://youtu.be/KxBCCWwiTv0
+
+-----------------------------------------------------------------------------
+firmware of K280 (Repetier)
+https://drive.google.com/file/d/0B8opGltFUVLQTXFlU3FIenFzYjQ/view?usp=sharing
+
+eeprom_clear_2560
+https://drive.google.com/file/d/0B8opGltFUVLQcFQxZlJmQ3gwbzg/view?usp=sharing
+
+firmware of K280 (marlin):
+https://drive.google.com/file/d/1uWyiETmINsUz63PgVbg8IjrRdOJo3X95/view?usp=sharing
+
+arduino 1.0.2 link:
+https://drive.google.com/file/d/0B8opGltFUVLQUm5XZWN1dzZQNFk/view?usp=sharing
+
+arduino 1.6.6 link:
+https://drive.google.com/file/d/1ig5j5a-VGDm3NgTGFTjxYXXjz9t5-F87/view?usp=sharing
+
+firmware uploading method:
+https://drive.google.com/file/d/15GK0hL8E9sBnK3XkfdXJam5udFY2u3eA/view?usp=sharing
+
+Repetier Host 1.5.4
+https://drive.google.com/file/d/0B8opGltFUVLQZlE2UzAwTFlDazg/view?usp=sharing
+
+Repetier Host 2.0.1
+https://drive.google.com/file/d/1JdDfnaLRQWBf9TKOs0BMCyDjB8XBvwg8/view?usp=sharing
+
+If you have question, Welcome to join our facebook group:
+https://www.facebook.com/groups/1787070361537465/
+
+our email:
+email: support@reprap.cn
