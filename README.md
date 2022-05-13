@@ -34,8 +34,8 @@ Before you [push any changes to the remote repo](https://zeroesandones.medium.co
 If you want to push your changes to the remote repo when the configuration is broken, look up how to make a branch in Git to keep your changes separate from the reliable version. 
 
 ### How to Edit the Configuration
-To edit the configuration of the printer, browse to ```Marlin_Config_for_K280\Marlin-2.0.9.2\Marlin``` and modify the Configuration.h and the Configuation_adv.h files. 
-Make sure to research what changes to make as these parameters can have a damaging impact on the printer if not set up properly. 
+To edit the printer configuration, browse to ```Marlin_Config_for_K280\Marlin-2.0.9.2\Marlin``` and modify the Configuration.h and the Configuation_adv.h files. 
+Make sure to research what changes to make, as these parameters can have a damaging impact on the printer if not set up correctly. 
 
 ### How to upload changes to the printer
 Once you have made changes to the configuration and would like to push the changes to the printer, follow the steps below:
