@@ -1,6 +1,37 @@
 # Marlin_Config_for_K280
+## Created by: Jacob Milburn (Fall 2021/Spring 2022)
 
-Place for editing the configuration files for Sunderland Innovation Lab's HE3D printer
+Configuration files for Sunderland Innovation Lab's HE3D printer
 
+### Install the software to work with the firmware
+To modify the firmware of the Delta style printer for the first time, follow the steps below to get started (modified from [the official Marlin documentation](https://github.com/MarlinFirmware/MarlinDocumentation/blob/master/_basics/auto_build_marlin.md)]).
+1. [Install Python](https://www.python.org/getit/)
+    - Make sure to include Python on the path
+2. [Install Git](https://git-scm.com/downloads)
+    - Leave everything at the default options
+4. [Install VS Code](https://code.visualstudio.com/Download)
+5. Open the Extensions tab on the left side of the VScode UI
+6. Search for PlatformIO and download
+7. Let PlatformIO finish installing completely and fix any errors it issues
+8. Search the Extensions for Marlin
+9. Install AutoBuildMarlin
+10. Open the Version Control tab on the left side of the VSCode UI
+    - [See this link for images of this process](https://code.visualstudio.com/Docs/editor/versioncontrol#_cloning-a-repository)
+12. Click Clone Repo
+13. Use the HTTPs link in the upper right hand corner of this page to connect to this repo
+14. Open a new Git terminal by:
+    1. Clicking on the terminal window in the bottom of the VS code UI
+    2. Clicking the large plus button on the right side of the terminal window
+    3. Selecting the Git bash option
+15. Configure your name and email by entering the following lines where John Doe is your name and johndoe@example.com is your email address
+    - ```$ git config --global user.name "John Doe"```
+    - ```$ git config --global user.email johndoe@example.com```
 
-Before Flashing Marlin Firmware, Make sure to move Configuration.h and Configuration_adv.h files to the config folder of Marlin
+**You have now configured your computer to work with the firmware!**
+
+Before you [push any changes to the remote repo](https://zeroesandones.medium.com/how-to-commit-and-push-your-changes-to-your-github-repository-in-vscode-77a7a3d7dd02), make sure that the current configuration you are working on is not broken.
+
+If you do want to push your changes to the remote repo when the configuration is broken, look up how to make a branch in Git so you can keep your changes seperate from the reliable version. 
+
+### How to upload changes to the printer
+Once you have made changes to the configuration and would like to 
