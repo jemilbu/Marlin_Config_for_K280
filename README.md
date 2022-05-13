@@ -4,7 +4,7 @@
 Configuration files for Sunderland Innovation Lab's HE3D printer
 
 ### Install the software to work with the firmware
-To modify the firmware of the Delta style printer for the first time, follow the steps below to get started (modified from [the official Marlin documentation](https://github.com/MarlinFirmware/MarlinDocumentation/blob/master/_basics/auto_build_marlin.md)]).
+To modify the firmware of the Delta style printer for the first time, follow the steps below to get started (modified from [the official Marlin documentation](https://github.com/MarlinFirmware/MarlinDocumentation/blob/master/_basics/auto_build_marlin.md)).
 1. [Install Python](https://www.python.org/getit/)
     - Make sure to include Python on the path
 2. [Install Git](https://git-scm.com/downloads)
