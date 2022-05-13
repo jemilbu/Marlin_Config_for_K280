@@ -23,7 +23,7 @@ To modify the firmware of the Delta style printer for the first time, follow the
     1. Clicking on the terminal window in the bottom of the VS code UI
     2. Clicking the large plus button on the right side of the terminal window
     3. Selecting the Git bash option
-15. Configure your name and email by entering the following lines where John Doe is your name and johndoe@example.com is your email address
+15. Configure your name and email by entering the following lines where John Doe is your name and johndoe@example.com is your email address associated with your Github account
     - ```$ git config --global user.name "John Doe"```
     - ```$ git config --global user.email johndoe@example.com```
 
@@ -34,4 +34,16 @@ Before you [push any changes to the remote repo](https://zeroesandones.medium.co
 If you do want to push your changes to the remote repo when the configuration is broken, look up how to make a branch in Git so you can keep your changes seperate from the reliable version. 
 
 ### How to upload changes to the printer
-Once you have made changes to the configuration and would like to 
+Once you have made changes to the configuration and would like to push the changes to the printer, follow the steps below:
+1. Open the AutoBuild Marlin extension tab
+2. Verify that you are in the Marlin 2.0.9.2 Folder (or whatever version is currently applicable)
+3. Click the "Build" button for the mega2560
+4. Verify that the build is successful, solve issues if not (this can take up to a minute)
+5. Plug in the printer
+6. Connect to the printer via the blue USB cord
+7. Click the "Upload" button for the mega2560
+8. Verify that the firmware has been uploaded and then reset the machine using the reset button on the bottom of the display board
+
+
+### Contact Information
+If you have any questions about this process, feel free to contact me at (620) 899-8028 or thisoldemail.9605@yahoo.com (current as of 5/13/2022).
